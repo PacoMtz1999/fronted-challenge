@@ -1,0 +1,17 @@
+IA utilizada: ChatGPT Prompt:
+“Necesito generar la estructura base de un proyecto con React y Vite, integrando CoreUI Pro 
+como sistema de diseño y Zustand para el manejo de estado. ¿Me puedes dar un ejemplo de cómo organizar carpetas y la configuración inicial?”
+
+IA utilizada: Deepseek Prompt:
+“Muéstrame cómo implementar una tabla con AG Grid en React que muestre columnas para Número de Factura, Cliente, 
+Fecha, Estado y Monto. Además, agrega filtros por estado (Pagada/Pendiente) y rango de fechas usando datos mock en JSON.”
+
+IA utilizada: v0 by Vercel Prompt:
+“Indícame cómo combinar componentes de CoreUI Pro con utilidades de TailwindCSS para maquetar una interfaz consistente y responsive.”
+
+IA utilizada: ChatGPT Prompt:
+“Guíame para implementar una importación de facturas desde un archivo CSV usando Flatfile o una alternativa gratuita. 
+Quiero que los registros se carguen en la tabla de facturas gestionada con Zustand.”
+
+IA utilizada: ChatGPT Prompt:
+“Dame un ejemplo de un README profesional para un challenge técnico frontend. Debe incluir: instalación, ejecución, supuestos, notas adicionales y cómo fue el uso de IA en el desarrollo.”
